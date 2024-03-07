@@ -44,7 +44,7 @@ main ()
 		  escape = rand () % 2;
 		  if (escape == 1)
 			{
-			  cout << "Boa, vocC* conseguiu fugir. ParabC)ns, " << name << "!"
+			  cout << "Boa, você conseguiu fugir. Parabéns, " << name << "!"
 				<< endl;
 			  break;
 			}
